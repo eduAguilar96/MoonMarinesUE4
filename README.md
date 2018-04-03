@@ -107,7 +107,7 @@ so...
 - Eduardo Aguilar Leal
 - ChurbloxXx69
 - El Guad
-- Dan Scissors
+- Daniel Tijerina
 
 #### Software
 - Unreal Engine 4.19
