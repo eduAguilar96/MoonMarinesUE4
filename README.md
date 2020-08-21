@@ -1,7 +1,7 @@
 # Moon Marines v1.0
 ---
 
-![MoonMarinesGIF](https://i.imgur.com/MSkuSVY.gif)
+![MoonMarinesGIF](https://i.imgur.com/yqIY2Ay.gifv)
 
 README last updated 3/26/2018
 
